@@ -1,0 +1,1 @@
+#calculate si of given principal, rate and time
